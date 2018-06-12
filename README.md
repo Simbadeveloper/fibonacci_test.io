@@ -48,11 +48,11 @@ def F(n):<br >
  
 #
     
-    def F():<br >
-    a,b = 0,1<br >
-    while True:<br >
-        yield a<br >
-        a, b = b, a + b <br >
+    def F():
+    a,b = 0,1
+    while True:
+        yield a
+        a, b = b, a + b 
 
 
 
