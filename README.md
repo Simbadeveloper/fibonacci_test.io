@@ -45,9 +45,9 @@ consider the examples<br >
 
 <hr >
 def F(n):<br >
-    if n == 0: return 0<br >
-    elif n == 1: return 1<br >
-    else: return F(n-1)+F(n-2)<br >
+    if n == 0:<br > return 0<br >
+    elif n == 1:<br > return 1<br >
+    else:<br > return F(n-1)+F(n-2)<br >
  
 #
     
