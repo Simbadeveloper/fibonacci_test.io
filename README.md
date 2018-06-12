@@ -70,3 +70,8 @@ http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html<br 
 https://en.wikipedia.org/wiki/Fibonacci_number<br >
 
 https://stackoverflow.com/questions/494594/how-to-write-the-fibonacci-sequence<br >
+
+# checkout
+look up for following......
+1. The golden rule<br >
+2. Menoization technique<br >
