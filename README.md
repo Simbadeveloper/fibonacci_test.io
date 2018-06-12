@@ -74,4 +74,9 @@ https://stackoverflow.com/questions/494594/how-to-write-the-fibonacci-sequence<b
 # checkout
 look up for following......
 1. The golden rule<br >
-2. Menoization technique<br >
+The golden ratio is the limit of the ratios of successive terms of the Fibonacci sequence (or any Fibonacci-like sequence), as originally shown by Kepler: <br >
+Therefore, if a Fibonacci number is divided by its immediate predecessor in the sequence, the quotient approximates φ; e.g., 987/610 ≈ 1.6180327868852.<br >
+<hr>
+
+2. Memoization technique<br >
+memoization or memoisation is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again
